@@ -1,15 +1,11 @@
-# tablezzz
+# Truth Tables 
 
-To install dependencies:
+Random code to generate truth tables in `AND` gate with a given number of inputs.
 
-```bash
-bun install
-```
+## Built
 
-To run:
+This project was created using `bun` in bun v1.1.7. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 
-```bash
-bun run index.ts
-```
+![Built techs](https://skillicons.dev/icons?i=ts,bun&theme=dark)
 
-This project was created using `bun init` in bun v1.1.7. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+> Icons: [https://skillicons.dev/](https://skillicons.dev/)
