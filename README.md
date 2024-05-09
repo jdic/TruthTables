@@ -1,6 +1,6 @@
 # Truth Tables 
 
-Random code to generate truth tables in `AND` gate with a given number of inputs.
+Random code to generate truth tables in `AND` and `OR` gate with a given number of inputs.
 
 ## Built
 
