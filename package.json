@@ -1,0 +1,6 @@
+{ "dependencies": { "pdfkit": "^0.15.0" }, "name": "tablezzz", "module": "index.ts", "type": "module", "devDependencies": {
+  "@types/bun": "latest",
+  "@types/pdfkit": "^0.13.4"
+}, "peerDependencies": {
+  "typescript": "^5.0.0"
+} }
